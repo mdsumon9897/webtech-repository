@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Student Registation Form</title>
+</head>
+<body>
+    <fieldset>
+        <legend><b><i>Registation Form</i></b></legend>
+        <label for="fName">First Name :</label>
+        <input type="text" name="fName" placeholder="Enter Your First Name">
+        <br>
+        <br>
+        <label for="lName">Last Name :</label>
+        <input type="text" name="lName" placeholder="Enter Your Last Name">
+        <br>
+        <br>
+        <label for="dateofbirth">Date of Birth :</label>
+        <input type="Date" name="dateofbirth">
+        <br>
+        <br>
+        <label for="gender"> Gender :</label>
+        <input type="radio" name="gender" value="Male">Male
+        <input type="radio" name="gender" value="Female">Female
+        <input type="radio" name="gender" value="Other">Other
+        <br>
+        <br>
+        <label for="degree"> Degree :</label>
+        <input type="checkbox" name="degree[]" value="SSC">
+        <label for="SSC">SSC</label>
+        <input type="checkbox" name="degree[]" value="HSC">
+        <label for="HSC">HSC</label>
+        <input type="checkbox" name="degree[]" value="BSc">
+        <label for="BSc">BSc</label>
+        <br>
+        <br>
+        <label for="university">Universiy :</label>
+        <select name="university">
+            <option value="AUST">AUST</option>
+            <option value="BUP">BUP</option>
+            <option value="AIUB">AIUB</option>
+            <option value="NSU">NSU</option>
+            <option value="IUB">IUB</option>
+            <option value="UIU">UIU</option>
+            <option value="MIST">MIST</option>
+            <option value="BRAC">BRAC</option>
+            <option value="DU">DU</option>
+            <option value="BUET">BUET</option>
+            <option value="SUST">SUST</option>
+            <option value="HUST">HUST</option>
+        </select>
+        <br>
+        <br>
+        <label for="credit"> Credit Completed</label>
+        <input type="number" name="credit" min=0 >
+        <br>
+        <br>
+        <input type="submit" name="Submit" value="Submit">
+
+
+
+    </fieldset>
+
+</body>
+</html>
