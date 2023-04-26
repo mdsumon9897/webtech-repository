@@ -1,0 +1,14 @@
+<h2>Our Mission</h2>
+<p><h3><b>The main objectives of a food donation management system include:</b></h3></p>
+
+<p><b>Increasing access to food for those in need: </b>The system should aim to reduce food insecurity by ensuring that donated food reaches people who need it the most.
+
+<p><b>Reducing food waste:</b>The system should aim to reduce food waste by efficiently managing the distribution and storage of surplus food.</p> 
+
+<p><b>Enhancing food safety:</b>The system should ensure that donated food is safe for consumption and meets all relevant food safety standards.</p> 
+
+<p><b>Streamlining the donation process:</b> The system should provide a streamlined process for donors to donate food and for organizations to receive and distribute donated food.</p>
+
+<p><b>Providing real-time tracking:</b>The system should provide real-time tracking of donations, collections, and distributions, enabling organizations to monitor their progress and make data-dr iven decisions.
+</p>
+<p>Overall, the mission of a food donation management system is to create a more sustainable and equitable food system by ensuring that surplus food is used to feed people in need rather than going to waste</p>
